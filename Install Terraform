@@ -6,3 +6,6 @@ sudo yum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinu
 sudo yum -y install terraform
 #Verify the install
 terraform -help
+# uninstall Terraform
+sudo yum remove terraform
+# Type y and hit enter to continue uninstall
