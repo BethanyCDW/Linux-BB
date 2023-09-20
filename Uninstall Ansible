@@ -1,0 +1,3 @@
+# Uninstall Ansible
+pip uninstall ansible
+# Type y and hit enter to continue uninstall
