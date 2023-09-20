@@ -1,0 +1,5 @@
+#!/bin/bash
+#Install.
+sudo yum -y install packer; terraform; vault
+# Install Ansible
+pip install ansible
