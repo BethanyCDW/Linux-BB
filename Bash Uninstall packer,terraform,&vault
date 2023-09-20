@@ -1,3 +1,4 @@
-# Uninstall Packer
+#!/bin/bash
+# Uninstall all
 sudo yum remove [ packer vault terraform ]
 # Type y and hit enter to continue uninstall
