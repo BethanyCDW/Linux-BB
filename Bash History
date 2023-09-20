@@ -1,13 +1,27 @@
-[ec2-user@ip-10-0-29-41 ~]$ history
-    1  terraform
-    2  packer
-    3  vault
-    4  sudo dnf update
-    5  sudo dnf install python3-pip
-    6  pip install ansible
-    7  ansible
-    8  terraform
-    9  packer
-   10  vault
-   11  aws configservice get-resource-config-history
-   12  history
+[ec2-user@ip-10-0-9-180 ~]$ history
+    sudo vim BashInstall.sh
+    sudo chmod +x BashInstall.sh
+   ./BashInstall.sh 
+   sudo vim BashRemove.sh
+   sudo chmod 
+   sudo chmod +x BashRemove.sh
+   sudo dnf update
+   sudo dnf install python3-pip
+   pip install ansible
+   pip
+   ansible
+   packer
+   terraform
+   vault
+   ./BashInstall.sh
+   terraform
+   packer
+   vault
+   ansible
+   ./BashRemove.sh
+   pip uninstall ansible
+   terraform
+   packer
+   vault
+   ansible
+   history
