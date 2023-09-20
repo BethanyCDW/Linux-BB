@@ -6,3 +6,6 @@ sudo yum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinu
 sudo yum -y install vault
 #Verify The install
 vault
+# uninstall Vault
+sudo yum remove vault
+# Type y and hit enter to continue uninstall
