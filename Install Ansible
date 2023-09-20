@@ -1,1 +1,2 @@
+$ sudo yum-config-manager --add-repo ppa:ansible/ansible
 
