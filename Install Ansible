@@ -1,4 +1,4 @@
-# You need pip, a python packet manager, to install Ansible on Amazon Linux 2023 and newer
+# You need pip, a python packet manager, to install Ansible on Amazon Linux 2023 and newer. Neither amazon-linux-extras repository nor EPEL is available on Amazon Linux 2023.
 # Update system package
 sudo dnf update
 # Install pip
